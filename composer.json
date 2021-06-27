@@ -1,0 +1,23 @@
+{
+    "name": "borisnedovis/eloquent-presenter",
+    "description": "Presentation standard for Eloquent models",
+    "keywords": ["laravel", "model", "presenter", "eloquent", "decorator"],
+    "require": {
+        "php": "^7.4",
+        "illuminate/support": "5.*|6.*|7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "BorisNedovis\\EloquentPresenter\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Boris Nedovis",
+            "email": "borisnedoviswork@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable"
+}
