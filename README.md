@@ -8,7 +8,7 @@ composer require borisnedovis/eloquent-presenter
 
 ## Usage
 
-Create presenter class and extend it from ```BorisNedovis\EloquentPresenter\AbstractPresenter```. And specify ```$attributes``` keys, which presenter should use from model:
+Create presenter class and extend it from ```aaboris\EloquentPresenter\AbstractPresenter```. And specify ```$attributes``` keys, which presenter should use from model:
 ```php
 namespace App\Presenters;
 
